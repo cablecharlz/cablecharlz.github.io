@@ -1,4 +1,3 @@
-name: Charles Blog
+name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-baseurl: /charles-blog
